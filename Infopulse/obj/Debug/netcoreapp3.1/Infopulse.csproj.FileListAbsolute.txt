@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Infopulse\Infopulse\bin\Debug\netcoreapp3.1\Infopulse.exe
+C:\Users\User\source\repos\Infopulse\Infopulse\bin\Debug\netcoreapp3.1\Infopulse.deps.json
+C:\Users\User\source\repos\Infopulse\Infopulse\bin\Debug\netcoreapp3.1\Infopulse.runtimeconfig.json
+C:\Users\User\source\repos\Infopulse\Infopulse\bin\Debug\netcoreapp3.1\Infopulse.runtimeconfig.dev.json
+C:\Users\User\source\repos\Infopulse\Infopulse\bin\Debug\netcoreapp3.1\Infopulse.dll
+C:\Users\User\source\repos\Infopulse\Infopulse\bin\Debug\netcoreapp3.1\Infopulse.pdb
+C:\Users\User\source\repos\Infopulse\Infopulse\obj\Debug\netcoreapp3.1\Infopulse.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Infopulse\Infopulse\obj\Debug\netcoreapp3.1\Infopulse.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Infopulse\Infopulse\obj\Debug\netcoreapp3.1\Infopulse.AssemblyInfo.cs
+C:\Users\User\source\repos\Infopulse\Infopulse\obj\Debug\netcoreapp3.1\Infopulse.dll
+C:\Users\User\source\repos\Infopulse\Infopulse\obj\Debug\netcoreapp3.1\Infopulse.pdb
